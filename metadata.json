@@ -1,0 +1,7 @@
+{
+  "name": "Dogar Voice Studio Pro",
+  "description": "Enterprise-grade AI Voice Cloning and Neural Speech Synthesis platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
